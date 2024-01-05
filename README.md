@@ -24,6 +24,7 @@ git clone https://github.com/HaykDanghyan/email-spam-filtering.git
 2. Open `Jupyter Notebook`
 3. Run `Spam Filtering.ipynb` and have fun!
 
-<p align="center">
-<img src="https://www.cartika.com/web/default/files/users/18/SPAM-Filtering%20copy-02.png" width="600" height="300"/>
-</p>
+<div align="center">
+  <img src="https://github.com/HaykDanghyan/email-spam-filtering/assets/98834723/890224d8-7a63-4700-97b8-507628b754d8" alt="Spam or Ham?"/>
+</div>
+
